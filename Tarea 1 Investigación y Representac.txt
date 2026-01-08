@@ -1,0 +1,3 @@
+Tarea 1: Investigación y Representación de las Figuras en Diagramas de Flujo
+Objetivo General
+Comprender los elementos básicos que conforman un diagrama de flujo y aprender a representarlos correctamente, identificando su uso, significado y aplicación práctica en la resolución de problemas.
